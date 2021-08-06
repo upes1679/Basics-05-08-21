@@ -4,7 +4,7 @@ So what have we learned today?
 
 - Add JDK path to environment variables 
 - Run java program from Intellij and from Command line 
-- A little about Intellij
+- A little about Intellij and shortcuts
 - What is the main method 
 - Variables 
 - Naming variables 
